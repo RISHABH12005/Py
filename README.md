@@ -1,6 +1,6 @@
 # *Python*
 
-## *Introduction*
+## *Intro*
 A high-level, interpreted programming language known for its simplicity & readability. It is widely used in various fields such as web development, data science, AI, automation & more. Python supports multiple programming paradigms, including procedural, OOP, functional programming.
 
 ---
