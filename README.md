@@ -39,9 +39,9 @@ A high-level, interpreted programming language known for its simplicity & readab
 ---
 
 ## *Applications*
-- *Web Development*: Frameworks like Django & Flask for building web applications.
-- *Data Science & Machine Learning*: Libraries like NumPy, Pandas,TensorFlow.
+- *WebD*: Frameworks like Django & Flask for building web applications.
+- *Data Science & ML*: Libraries like NumPy, Pandas,TensorFlow.
 - *Automation & Scripting*: Automating repetitive tasks using scripts.
 - *Cybersecurity*: Used for ethical hacking & penetration testing.
-- *Game Development*: Engines like Pygame for creating interactive games.
-- *Embedded Systems & IoT*: Controlling hardware with MicroPython.
+- *GameD*: Engines like Pygame for creating interactive games.
+- *Embedded Sys & IoT*: Controlling hardware with MicroPython.
