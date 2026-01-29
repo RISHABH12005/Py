@@ -2,6 +2,7 @@
 To emphasize	object-oriented programming	concepts and the design of algorithms and related data structures. Problem decomposition and principles of software engineering are stressed throughout the course. Advance aspects of programming may be taken care off through Python
 
 # *Python*
+- [Install](https://www.python.org/downloads)
 
 ## *Intro*
 A high-level, interpreted programming language known for its simplicity & readability. It is widely used in various fields such as web development, data science, AI, automation & more. Python supports multiple programming paradigms, including procedural, OOP, functional programming.
