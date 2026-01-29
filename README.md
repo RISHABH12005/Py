@@ -34,8 +34,6 @@ A high-level, interpreted programming language known for its simplicity & readab
 - Regularly updated with new features & security patches.
 - Extensive documentation & tutorials available online.
 
----
-
 ## *Applications*
 - *WebD*: Frameworks like Django & Flask for building web applications.
 - *Data Science & ML*: Libraries like NumPy, Pandas,TensorFlow.
