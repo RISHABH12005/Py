@@ -1,3 +1,6 @@
+#  Advance Programming Lab-I (APL-I)
+To emphasize	object-oriented programming	concepts and the design of algorithms and related data structures. Problem decomposition and principles of software engineering are stressed throughout the course. Advance aspects of programming may be taken care off through Python
+
 # *Python*
 
 ## *Intro*
